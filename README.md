@@ -6,7 +6,8 @@ This repository contains the source code for a Grocery Ease web application deve
 
 <br>
 
-![Screenshot 2025-02-25 154339](https://github.com/user-attachments/assets/21eab762-5a2c-4445-9cac-9c2e563f99ec)
+
+![Screenshot 2025-02-25 171642](https://github.com/user-attachments/assets/1aa4b1be-fd40-46dc-9b18-18595eb83aef)
 
 
 ## Project Structure
